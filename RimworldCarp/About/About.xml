@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <n>Carpentry &amp; Wooden Planks</n>
+    <author>YourName</author>
+    <packageId>yourname.rimworldcarp</packageId>
+    <supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+        <li>1.6</li>
+    </supportedVersions>
+    <description>Adds a carpentry system to RimWorld! Process raw wood into refined wooden planks and build beautiful plank walls.
+
+Features:
+- Carpentry Bench: Process wood into wooden planks (2 wood → 1 plank)
+- Wooden Planks: A refined building material
+- Plank Walls: Attractive walls made from 3 wooden planks
+- Unlocked with Smithing research
+
+Perfect for colonies that want to make better use of their abundant wood resources while creating more refined structures.</description>
+    <url>https://github.com/UNSC77/rimworld-carpentry</url>
+</ModMetaData>

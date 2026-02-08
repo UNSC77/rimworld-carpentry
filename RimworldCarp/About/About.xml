@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <n>Carpentry &amp; Wooden Planks</n>
+    <name>Carpentry and Wooden Planks</name>
     <author>YourName</author>
     <packageId>yourname.rimworldcarp</packageId>
     <supportedVersions>
